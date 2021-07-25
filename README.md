@@ -18,5 +18,5 @@
 [parente-pic]: https://github.com/Joao-Parente.png?size=120
 
 <div align="center">
-  <sub>February 2020 - July 2021</sub>
+  <sub>February 2020 - July 2020</sub>
 </div>
